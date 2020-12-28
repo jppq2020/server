@@ -97,7 +97,8 @@
       "razonSocial": " 20/01/2020 ",
       "nit": "122.00 Bs",
       "telefono": "233 / Credito",
-      "zona": ""
+      "zona": "BRV",
+      "fecha": "332423423"
     },
     {
       "codigo": "13/20",
@@ -105,7 +106,9 @@
       "razonSocial": " 20/01/2020 ",
       "nit": "122.00 Bs",
       "telefono": "233 / Credito",
-      "zona": ""
+      "zona": "Gemgloo",
+      "fecha": "74566456"
+      
     },
     {
       "codigo": "13/20",
@@ -113,7 +116,8 @@
       "razonSocial": " 20/01/2020 ",
       "nit": "122.00 Bs",
       "telefono": "233 / Credito",
-      "zona": ""
+      "zona": "Gurabirá",
+      "fecha": "74566456"
       }
   ],
   "profile": {
