@@ -15,29 +15,80 @@
   ],
   "users": [
     {
-      "codigo": "232",
-      "nombre": "Bruno Rodriguez Vaca",
-      "razonSocial": " BRV ",
-      "nit": "332423423",
-      "telefono": "70918943",
-      "zona": "Av Bush"
-    },
-    {
-      "codigo": "235",
-      "nombre": "Jorge Eguez",
-      "razonSocial": " Gemgloo ",
-      "nit": "74566456",
-      "telefono": "7856756",
-      "zona": "Av Mutualista"
-    },
-    {
-        "codigo": "235",
-        "nombre": "Denar Viruez",
-        "razonSocial": " Guabirá∫ ",
-        "nit": "74566456",
-        "telefono": "7856756",
-        "zona": "Av Mutualista"
+      "posts": [
+        {
+          "id": 1,
+          "title": "json-server",
+          "author": "typicode"
+        }
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "body": "some comment",
+          "postId": 1
+        }
+      ],
+      "users": [
+        {
+          "codigo": "232",
+          "nombre": "Bruno Rodriguez Vaca",
+          "razonSocial": " BRV ",
+          "nit": "332423423",
+          "telefono": "70918943",
+          "zona": "Av Bush"
+        },
+        {
+          "codigo": "235",
+          "nombre": "Jorge Eguez",
+          "razonSocial": " Gemgloo ",
+          "nit": "74566456",
+          "telefono": "7856756",
+          "zona": "Av Mutualista"
+        },
+        {
+            "codigo": "235",
+            "nombre": "Denar Viruez",
+            "razonSocial": " Guabirá∫ ",
+            "nit": "74566456",
+            "telefono": "7856756",
+            "zona": "Av Mutualista"
+          }
+      ],
+      "sales": [
+        {
+          "codigo": "13/20",
+          "nombre": "Bruno Rodriguez Vaca",
+          "razonSocial": " 20/01/2020 ",
+          "nit": "122.00 Bs",
+          "telefono": "233 / Credito",
+          "zona": "BRV",
+          "fecha": "332423423"
+        },
+        {
+          "codigo": "13/20",
+          "nombre": "Jorge Eguez",
+          "razonSocial": " 20/01/2020 ",
+          "nit": "122.00 Bs",
+          "telefono": "233 / Credito",
+          "zona": "Gemgloo",
+          "fecha": "74566456"
+          
+        },
+        {
+          "codigo": "13/20",
+          "nombre": "Denar Viruez",
+          "razonSocial": " 20/01/2020 ",
+          "nit": "122.00 Bs",
+          "telefono": "233 / Credito",
+          "zona": "Gurabirá",
+          "fecha": "74566456"
+          }
+      ],
+      "profile": {
+        "name": "typicode"
       }
+    }
   ],
   "sales": [
     {
