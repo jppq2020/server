@@ -69,6 +69,29 @@
       "fecha": "74566456"
       }
   ],
+  "money": [
+    {
+      "codigo": "13/20",
+      "fecha": "20/01/2020",
+      "nombre": "Jorge Rodriguez Vaca",
+      "importe": 122,
+      "medioPago": "Efectivo"
+    },
+    {
+      "codigo": "13/20",
+      "fecha": "20/01/2020",
+      "nombre": "Bruno Rodriguez Vaca",
+      "importe": 122,
+      "medioPago": "Efectivo"
+    },
+    {
+      "codigo": "13/20",
+      "fecha": "20/01/2020",
+      "nombre": "Denar Viruez Quiroga",
+      "importe": 122,
+      "medioPago": "Efectivo"
+      }
+  ],
   "profile": {
     "name": "typicode"
   }
