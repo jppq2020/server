@@ -55,29 +55,37 @@
       "fecha": "74566456"
       }
   ],
-  "money": [
+    "money": [
     {
       "codigo": "13/20",
-      "fecha": "20/01/2020",
-      "nombre": "Jorge Rodriguez Vaca",
-      "importe": 122,
-      "medioPago": "Efectivo"
-    },
-    {
-      "codigo": "13/20",
-      "fecha": "20/01/2020",
       "nombre": "Bruno Rodriguez Vaca",
-      "importe": 122,
-      "medioPago": "Efectivo"
+      "razonSocial": " 20/01/2020 ",
+      "nit": "122.00 Bs",
+      "telefono": "Efectivo",
+      "zona": "BRV",
+      "fecha": "332423423"
     },
     {
       "codigo": "13/20",
-      "fecha": "20/01/2020",
-      "nombre": "Denar Viruez Quiroga",
-      "importe": 122,
-      "medioPago": "Efectivo"
+      "nombre": "Jorge Eguez",
+      "razonSocial": " 20/01/2020 ",
+      "nit": "122.00 Bs",
+      "telefono": "Efectivo",
+      "zona": "Gemgloo",
+      "fecha": "74566456"
+      
+    },
+    {
+      "codigo": "13/20",
+      "nombre": "Denar Viruez",
+      "razonSocial": " 20/01/2020 ",
+      "nit": "122.00 Bs",
+      "telefono": "Efectivo",
+      "zona": "Gurabirá",
+      "fecha": "74566456"
       }
   ],
+
   "profile": {
     "name": "typicode"
   }
