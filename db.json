@@ -86,7 +86,7 @@
       }
   ],
 
-  "chat": [
+  "export_default": [
     {
       "type": "text",
       "author": "support",
