@@ -86,7 +86,7 @@
       }
   ],
 
-  "export default": [
+  "export_default": [
     {
       "type": "text",
       "author": "support",
