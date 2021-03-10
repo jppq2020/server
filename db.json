@@ -55,10 +55,73 @@
       "fecha": "74566456"
       }
   ],
- 
+    "api": [
+      {
+        "venta": {
+        "id": 315,
+        "recepcion": "RECEPCION",
+        "sucursal_direccion": "Av. Busch Nro. 452 Zona/Barrio Los Fortines, UV:014,Mza:007",
+        "sucursal_telefono": "3 352139",
+        "nombre_comercial": "Clinica Praxsa",
+        "sitio_web": "www.praxsasrl.com",
+        "paciente": "sandra rubi vasquez yepez",
+        "exp": 2,
+        "celular_telefono": "65018355",
+        "fecha": "2021-01-28",
+        "numero": "VM:1/21",
+        "numero_factura": "102",
+        "efectivo": "150.00000",
+        "ajuste": 0,
+        "edad": 11,
+        "total": "400.00000",
+        "descuento": "0.00000",
+        "usuario": "Jorge Eguez",
+        "fecha_registro": "25/02/2021 21:01:55",
+        "simbolo": "Bs.",
+        "tc": 7
+        },
+        "detalles": [
+        {
+        "id": 456,
+        "numero": 1,
+        "servicio_id": 169,
+        "servicio": "servicio1",
+        "descripcion": "abc",
+        "cantidad": 1,
+        "precio_unitario": "245.77500",
+        "total": "245.77500"
+        },
+        {
+        "id": 457,
+        "numero": 2,
+        "servicio_id": 169,
+        "servicio": "servicio1",
+        "descripcion": "abc",
+        "cantidad": 2,
+        "precio_unitario": "147.46500",
+        "total": "294.93000"
+        }
+        ]
+        }
+    ],
 
   "export_default": [
-
+    {
+      "type": "text",
+      "author": "support",
+      "id": 7,
+      "data": {
+        "text": "what?"
+      } 
+    },
+    {
+      "type": "text",
+      "author": "me",
+      "id": 8,
+      "data": {
+        "text": "Yeah, right."
+      } 
+    },
     {
       "type": "text",
       "author": "support",
