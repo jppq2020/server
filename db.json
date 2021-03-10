@@ -103,5 +103,112 @@
         }
         ]
         }
-    ]
+    ],
+
+    "posts": [
+      {
+        "0":{
+        "id": 18,
+        "titulo": "RECEPCION",
+        "sucursal_direccion": "Av. Busch Nro. 452 Zona/Barrio Los Fortines, UV:014,Mza:007",
+        "sucursal_telefono": "3 352139",
+        "nombre_comercial": "Clinica Praxsa",
+        "sitio_web": "www.praxsasrl.com",
+        "paciente": "sandra rubi vasquez yepez",
+        "exp": 2,
+        "celular_telefono": "65018355",
+        "fecha": "2021-01-28",
+        "numero": "VM:1/21",
+        "numero_factura": "102",
+        "efectivo": "150.00000",
+        "ajuste": 0,
+        "edad": 11,
+        "total": "400.00000",
+        "descuento": "0.00000",
+        "usuario": "Jorge Eguez",
+        "fecha_registro": "25/02/2021 21:01:55",
+        "simbolo": "Bs.",
+        "tc": 7
+        },
+        "1":{
+          "id": 18,
+          "titulo": "RECEPCION",
+          "sucursal_direccion": "Av. Busch Nro. 452 Zona/Barrio Los Fortines, UV:014,Mza:007",
+          "sucursal_telefono": "3 352139",
+          "nombre_comercial": "Clinica Praxsa",
+          "sitio_web": "www.praxsasrl.com",
+          "paciente": "sandra rubi vasquez yepez",
+          "exp": 2,
+          "celular_telefono": "65018355",
+          "fecha": "2021-01-28",
+          "numero": "VM:1/21",
+          "numero_factura": "102",
+          "efectivo": "150.00000",
+          "ajuste": 0,
+          "edad": 11,
+          "total": "400.00000",
+          "descuento": "0.00000",
+          "usuario": "Jorge Eguez",
+          "fecha_registro": "25/02/2021 21:01:55",
+          "simbolo": "Bs.",
+          "tc": 7
+          },
+        "2": [
+        {
+        "id": 456,
+        "numero": 1,
+        "servicio_id": 169,
+        "servicio": "servicio1",
+        "descripcion": "abc",
+        "cantidad": 1,
+        "precio_unitario": "245.77500",
+        "total": "245.77500"
+        },
+        {
+        "id": 457,
+        "numero": 2,
+        "servicio_id": 169,
+        "servicio": "servicio1",
+        "descripcion": "abc",
+        "cantidad": 2,
+        "precio_unitario": "147.46500",
+        "total": "294.93000"
+        }
+        ]
+        }
+    ],
+  "chat": [
+    {
+      "type": "text",
+      "author": "support",
+      "id": 7,
+      "data": {
+        "text": "what?"
+      } 
+    },
+    {
+      "type": "text",
+      "author": "me",
+      "id": 8,
+      "data": {
+        "text": "Yeah, right."
+      } 
+    },
+    {
+      "type": "text",
+      "author": "support",
+      "id": 9,
+      "data": {
+        "text": "Just talking? Well what's the show about?"
+      } 
+    },
+    {
+      "type": "text",
+      "author": "support",
+      "id": 11,
+      "data": {
+        "text": "this. Just talking."
+      } 
+    } 
+  ]
 }
