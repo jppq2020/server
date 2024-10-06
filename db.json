@@ -1,168 +1,30 @@
-{
-  "users": [
-    {
-      "codigo": "232",
-      "nombre": "Bruno Rodriguez Vaca",
-      "razonSocial": " BRV ",
-      "nit": "332423423",
-      "telefono": "70918943",
-      "zona": "Av Bush"
-    },
-    {
-      "codigo": "235",
-      "nombre": "Jorge Eguez",
-      "razonSocial": " Gemgloo ",
-      "nit": "74566456",
-      "telefono": "7856756",
-      "zona": "Av Mutualista"
-    },
-    {
-        "codigo": "235",
-        "nombre": "Denar Viruez",
-        "razonSocial": " Guabirá∫ ",
-        "nit": "74566456",
-        "telefono": "7856756",
-        "zona": "Av Mutualista"
-      }
-  ],
-  "sales": [
-    {
-      "codigo": "13/20",
-      "nombre": "Bruno Rodriguez Vaca",
-      "razonSocial": " 20/01/2020 ",
-      "nit": "122.00 Bs",
-      "telefono": "233 / Credito",
-      "zona": "BRV",
-      "fecha": "332423423"
-    },
-    {
-      "codigo": "13/20",
-      "nombre": "Jorge Eguez",
-      "razonSocial": " 20/01/2020 ",
-      "nit": "122.00 Bs",
-      "telefono": "233 / Credito",
-      "zona": "Gemgloo",
-      "fecha": "74566456"
-      
-    },
-    {
-      "codigo": "13/20",
-      "nombre": "Denar Viruez",
-      "razonSocial": " 20/01/2020 ",
-      "nit": "122.00 Bs",
-      "telefono": "233 / Credito",
-      "zona": "Gurabirá",
-      "fecha": "74566456"
-      }
-  ],
-    "api": [
-      {
-        "venta": {
-        "id": 315,
-        "recepcion": "RECEPCION",
-        "sucursal_direccion": "Av. Busch Nro. 452 Zona/Barrio Los Fortines, UV:014,Mza:007",
-        "sucursal_telefono": "3 352139",
-        "nombre_comercial": "Clinica Praxsa",
-        "sitio_web": "www.praxsasrl.com",
-        "paciente": "sandra rubi vasquez yepez",
-        "exp": 2,
-        "celular_telefono": "65018355",
-        "fecha": "2021-01-28",
-        "numero": "VM:1/21",
-        "numero_factura": "102",
-        "efectivo": "150.00000",
-        "ajuste": 0,
-        "edad": 11,
-        "total": "400.00000",
-        "descuento": "0.00000",
-        "usuario": "Jorge Eguez",
-        "fecha_registro": "25/02/2021 21:01:55",
-        "simbolo": "Bs.",
-        "tc": 7
-        },
-        "detalles": [
+{ 
+    "id": "chatcmpl-AFFCCmcP3IjEmbM91jTdXl7rc4MEx",
+    "object": "chat.completion",
+    "created": 1728196696,
+    "model": "gpt-4o-mini-2024-07-18",
+    "choices": [
         {
-        "id": 456,
-        "numero": 1,
-        "servicio_id": 169,
-        "servicio": "servicio1",
-        "descripcion": "abc",
-        "cantidad": 1,
-        "precio_unitario": "245.77500",
-        "total": "245.77500"
-        },
-        {
-        "id": 457,
-        "numero": 2,
-        "servicio_id": 169,
-        "servicio": "servicio1",
-        "descripcion": "abc",
-        "cantidad": 2,
-        "precio_unitario": "147.46500",
-        "total": "294.93000"
-        }
-        ]
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "La inteligencia artificial (IA) y el aprendizaje automático (machine learning) son dos conceptos interrelacionados, pero distintos. A continuación te explico las diferencias:\n\n1. **Inteligencia Artificial (IA)**: Es un campo amplio de la informática que busca desarrollar sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Esto incluye capacidades como el razonamiento, el aprendizaje, la comprensión del lenguaje natural, la percepción visual y la toma de decisiones. La IA puede ser divisida en dos categorías",
+                "refusal": null
+            },
+            "logprobs": null,
+            "finish_reason": "length"
         }
     ],
-
-    "posts": [
-      {
-        "id": 18,
-        "title": "simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
-        "body": "ce the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-        "created": "13-01-2020"
-      },
-      {
-        "id": 17,
-        "title": "simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
-        "body": "ce the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-        "created": "13-01-2020"
-      },
-      {
-        "id": 16,
-        "title": "simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
-        "body": "ce the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-        "created": "13-01-2020"
-      },
-      {
-        "id": 15,
-        "title": "simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
-        "body": "ce the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-        "created": "13-01-2020"
-      }
-    ],
-  "chat": [
-    {
-      "type": "text",
-      "author": "support",
-      "id": 7,
-      "data": {
-        "text": "what?"
-      } 
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 100,
+        "total_tokens": 118,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
     },
-    {
-      "type": "text",
-      "author": "me",
-      "id": 8,
-      "data": {
-        "text": "Yeah, right."
-      } 
-    },
-    {
-      "type": "text",
-      "author": "support",
-      "id": 9,
-      "data": {
-        "text": "Just talking? Well what's the show about?"
-      } 
-    },
-    {
-      "type": "text",
-      "author": "support",
-      "id": 11,
-      "data": {
-        "text": "this. Just talking."
-      } 
-    } 
-  ]
+    "system_fingerprint": "fp_f85bea6784"
 }
