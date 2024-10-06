@@ -1,10 +1,10 @@
 {
-    "model": "gpt-4o-mini-2024-07-18",
-    "choices": [
-        {
-            "message": {
-                "content": "La inteligencia artificial (IA)"
-            }
-        }
-    ]
+    "id": "chatcmpl-AFFCCmcP3IjEmbM91jTdXl7rc4MEx",
+    "model": "gpt-4o-mini",
+    "content": "La inteligencia artificial (IA) ",
+    "tokens": {
+        "prompt": 18,
+        "completion": 100,
+        "total": 118
+    }
 }
