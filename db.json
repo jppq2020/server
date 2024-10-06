@@ -1,17 +1,32 @@
 {
-  "open-ai": [
-      {
-        "model": "gpt-4o-mini-2024-07-18",
-        "choices": {
-            "message": {
-                "content": "La inteligencia artificial (IA)..."
-            }
-        },
-        "usage": {
-            "prompt_tokens": 18,
-            "completion_tokens": 100,
-            "total_tokens": 118
-        }
-    }
-  ]
+  "open-ai": {
+      "id": "chatcmpl-AFFCCmcP3IjEmbM91jTdXl7rc4MEx",
+      "object": "chat.completion",
+      "created": 1728196696,
+      "model": "gpt-4o-mini-2024-07-18",
+      "choices": [
+          {
+              "index": 0,
+              "message": {
+                  "role": "assistant",
+                  "content": "La inteligencia artificial (IA)...",
+                  "refusal": null
+              },
+              "logprobs": null,
+              "finish_reason": "length"
+          }
+      ],
+      "usage": {
+          "prompt_tokens": 18,
+          "completion_tokens": 100,
+          "total_tokens": 118,
+          "prompt_tokens_details": {
+              "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+              "reasoning_tokens": 0
+          }
+      },
+      "system_fingerprint": "fp_f85bea6784"
+  }
 }
