@@ -1,30 +1,13 @@
-{ 
-    "id": "chatcmpl-AFFCCmcP3IjEmbM91jTdXl7rc4MEx",
-    "object": "chat.completion",
-    "created": 1728196696,
+{
     "model": "gpt-4o-mini-2024-07-18",
     "choices": [
-        {
-            "index": 0,
-            "message": {
-                "role": "assistant",
-                "content": "La inteligencia artificial (IA) y el aprendizaje automático (machine learning) son dos conceptos interrelacionados, pero distintos. A continuación te explico las diferencias:\n\n1. **Inteligencia Artificial (IA)**: Es un campo amplio de la informática que busca desarrollar sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Esto incluye capacidades como el razonamiento, el aprendizaje, la comprensión del lenguaje natural, la percepción visual y la toma de decisiones. La IA puede ser divisida en dos categorías",
-                "refusal": null
-            },
-            "logprobs": null,
-            "finish_reason": "length"
+        "message": {
+            "content": "La inteligencia artificial (IA) y el aprendizaje automático (machine learning) son dos conceptos interrelacionados, pero distintos..."
         }
     ],
     "usage": {
         "prompt_tokens": 18,
         "completion_tokens": 100,
-        "total_tokens": 118,
-        "prompt_tokens_details": {
-            "cached_tokens": 0
-        },
-        "completion_tokens_details": {
-            "reasoning_tokens": 0
-        }
-    },
-    "system_fingerprint": "fp_f85bea6784"
+        "total_tokens": 118
+    }
 }
