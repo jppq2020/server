@@ -4,7 +4,7 @@
         "model": "gpt-4o-mini-2024-07-18",
         "choices": {
             "message": {
-                "content": "La inteligencia artificial (IA) y el aprendizaje automático (machine learning) son dos conceptos interrelacionados, pero distintos..."
+                "content": "La inteligencia artificial (IA)..."
             }
         },
         "usage": {
