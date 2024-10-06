@@ -6,10 +6,5 @@
                 "content": "La inteligencia artificial (IA)"
             }
         }
-    ],
-    "usage": {
-        "prompt_tokens": 18,
-        "completion_tokens": 100,
-        "total_tokens": 118
-    }
+    ]
 }
