@@ -10,7 +10,7 @@
                 "index": 0,
                 "message": {
                     "role": "assistant",
-                    "content": "Por ahora no me encuentro disponible...",
+                    "content": "Sistema chat de IA personalizado... solicite el tema a de interés...",
                     "refusal": null
                 },
                 "logprobs": null,
